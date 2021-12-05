@@ -1,0 +1,25 @@
+title:              Bootleg Batard
+email:              info@bootlegbatard.com
+description:        Where we build community by nourishing neighbors
+author:             Juliet Kelson
+baseurl:            "/startbootstrap-clean-blog-jekyll"
+url:                "https://bootlegbatard.github.io"
+
+# Social Profiles
+# twitter_username:   SBootstrap
+# github_username:    StartBootstrap
+facebook_username:  groups/BootlegBatard
+instagram_username:  bootlegbatard
+# linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/blog/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
