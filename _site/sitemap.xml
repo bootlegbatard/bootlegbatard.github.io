@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/2020/01/26/dinosaurs.html</loc>
-<lastmod>2020-01-26T21:45:13-06:00</lastmod>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/2020/05/05/steamy.html</loc>
+<lastmod>2020-05-05T22:45:13-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/our-roots/</loc>
@@ -15,5 +15,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/shop/</loc>
 </url>
 </urlset>
