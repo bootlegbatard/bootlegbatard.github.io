@@ -2,7 +2,7 @@ title:              Bootleg Batard
 email:              info@bootlegbatard.com
 description:        Where we build community by nourishing neighbors
 author:             Juliet Kelson
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://bootlegbatard.github.io"
 
 # Social Profiles
