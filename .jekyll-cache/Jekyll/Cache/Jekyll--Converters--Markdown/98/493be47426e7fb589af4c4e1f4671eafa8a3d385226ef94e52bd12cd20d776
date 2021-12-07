@@ -1,0 +1,15 @@
+I"ç<style>
+            ol li {
+                font-weight:bold;
+            }
+            li > p {
+                font-weight:normal;
+            }
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
+:ET

@@ -1,0 +1,19 @@
+---
+layout: page
+title: Gallery
+description: 
+background: '/img/gougere.jpeg'
+permalink: /gallery/
+
+
+---
+
+<p>We have a rotating menu that changes with the seasons. Here is a sampling of a few of our favorite things.</p>
+
+<!-- <ul class="photo-gallery">
+    {% for image in page.images %}
+      <li><img src="{{ image.image_path }}" alt="{{ image.title}}" width="300px" height="300px"/></li>
+    {% endfor %}
+  </ul> -->
+
+  {% include image-gallery.html folder="/img/Gallery" %}

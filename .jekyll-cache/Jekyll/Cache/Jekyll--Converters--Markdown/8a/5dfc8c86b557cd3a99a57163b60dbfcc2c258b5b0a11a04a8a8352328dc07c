@@ -1,0 +1,42 @@
+I"�<style>
+            ol li {
+                font-weight:bold;
+            }
+            li > p {
+                font-weight:normal;
+            }
+.image-txt-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  white-space: nowrap; 
+  padding: 8px 0;
+}
+</style>
+
+<p>Settle in. This is a long post. Your starter is healthy and ready to work, but the recipes you find are really complicated and a little confusing, am I right? Just like you realized that your writing improves and follows a common progression with an outline, bakers use the same outline for all yeast dough production. And there’s room to improvise or riff in there too— I’ll explain.</p>
+
+<p>But, before you get started, you’ll need some ground rules. Use grams and you and your kids can brush up on math.  I noted in an earlier post that bakers understand their formulas  by expressing them in percentages— this is really just a simple ratio. I recommend using a recipe written this way as it is an indication that it’s coming from a professional, and also, you will begin to see patterns. DON’T RESIST! The math will set you free, and it’s really easier than it seems.</p>
+
+<p style="font-weight:bold"> 12 Steps of Yeast Dough Production </p>
+<ol>
+    <li>Scaling</li> Measure your ingredients, accurately, and on a scale. 
+    <li> Mixing </li> Optional step- <span style="font-weight:bold">autolyse</span>. Here you combine all of your flour and your water together until you have a shaggy mass. Let this mixture sit for 20 minutes or up to a few hours. The gluten will unravel on its own, so less mixing is required. This preserves the carotenoids in your flour, retaining the color, provides a more extensible dough, and it ultimately increases shelf life by not oxidizing the dough. Then add your salt and carry on to true mixing. If you are using a liquid starter, it will need to go into the autolyse so you have enough hydration for your flour. If your starter is added, don’t let the mixture autolyse longer than a half an hour or fermentation will run away from you.
+</ol>
+
+<!-- <p style="width: 500px;">
+<img src="/img/posts/dylan_mixing.jpeg" style="float:left;"/>
+You can mix by hand or by mixer.
+If you are mixing by machine, put your water on the bottom first. Add your starter (don’t forget to save some so you can bake again), flour(s) and salt.
+</p> -->
+
+<div class="image-txt-container">
+  <img src="/img/posts/dylan_mixing.jpeg" width="50%" />
+  <h2>
+    You can mix by hand or by mixer.
+  </h2>
+</div>
+<p>If you are mixing by machine, put your water on the bottom first. Add your starter (don’t forget to save some so you can bake again), flour(s) and salt.</p>
+
+<p>Although these two loaves were baked from the same dough, in the same oven, at the same time, the loaf on the left didn’t get steamed and therefore it looks matte, has less volume, a tighter crumb, and the crust is less richly flavored.</p>
+:ET
