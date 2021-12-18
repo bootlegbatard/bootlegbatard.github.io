@@ -94,7 +94,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        <p>Just fill out the form and we will get back to you right away!</p>
+        <!-- <p>Just fill out the form and we will get back to you right away!</p>
 <form name="sentMessage" id="contactForm" novalidate>
   <div class="control-group">
     <div class="form-group floating-label-form-group controls">
@@ -129,7 +129,9 @@
   <div class="form-group">
     <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
   </div>
-</form>
+</form> -->
+
+<p>Need a special order or have a question? Contact us at:  <a href="info@bootlegbatard.com"> info@bootlegbatard.com</a></p>
 
 
       </div>
@@ -148,7 +150,7 @@
         <ul class="list-inline text-center">
           
           <li class="list-inline-item">
-            <a href="mailto:info@bootlegbatard.com">
+            <a href="mailto:melina@bootlegbatard.com">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
@@ -220,7 +222,7 @@
           $this = $("#sendMessageButton");
           $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
           $.ajax({
-            url: "//formspree.io/info@bootlegbatard.com",
+            url: "//formspree.io/melina@bootlegbatard.com",
             type: "POST",
             data: {
               name: name,
